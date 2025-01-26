@@ -1,5 +1,6 @@
-name: 'Hello World Docker Action'
+name: 'Hello World Docker Action -Ge'
 description: 'Say hello to a user or the world.'
+icon: 'award'
 inputs:
   who-to-greet:
     description: 'Who to greet'
